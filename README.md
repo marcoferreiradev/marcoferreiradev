@@ -21,8 +21,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Vtex](https://img.shields.io/badge/-VTEX-05122A?style=flat&logo=vtex)
 
-<br>
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="left">
