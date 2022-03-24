@@ -31,4 +31,8 @@
 <br><br>
 ---
 
+## 📊 &nbsp;Status semanal de desenvolvimento
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![Snake animation](https://github.com/marcoferreiradev/marcoferreiradev/blob/output/github-contribution-grid-snake.svg)
