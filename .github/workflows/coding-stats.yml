@@ -11,7 +11,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: marcoferreiradev/waka-readme-stats@master
+      - uses: marcoferreiradev/waka-readme-stats@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
