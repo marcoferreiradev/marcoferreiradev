@@ -34,6 +34,16 @@
 ## 📊 &nbsp;Status semanal de desenvolvimento
 <!--START_SECTION:waka-->
 
+```text
+From: 17 March 2022 - To: 24 March 2022
+
+TypeScript   18 hrs 59 mins  ███████████████████▒░░░░░   77.25 %
+JSON         2 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+GraphQL      1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+JavaScript   52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Other        32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+```
+
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/marcoferreiradev/marcoferreiradev/blob/output/github-contribution-grid-snake.svg)
