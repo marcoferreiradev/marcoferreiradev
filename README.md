@@ -35,7 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 August 2022 - To: 13 August 2022
+From: 07 August 2022 - To: 14 August 2022
 
 TypeScript   10 hrs 30 mins  █████████████████████░░░░   84.34 %
 SCSS         50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
