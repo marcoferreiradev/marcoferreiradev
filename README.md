@@ -35,7 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 27 October 2022 - To: 03 November 2022
+
+Markdown   3 mins          █████████████████████▓░░░   87.19 %
+Bash       0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
 ```
 
 <!--END_SECTION:waka-->
