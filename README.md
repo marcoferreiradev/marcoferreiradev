@@ -35,7 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 December 2022 - To: 01 January 2023
+From: 26 December 2022 - To: 02 January 2023
 
 JavaScript   2 hrs 34 mins   ████████████▓░░░░░░░░░░░░   51.00 %
 TypeScript   1 hr 23 mins    ███████░░░░░░░░░░░░░░░░░░   27.44 %
