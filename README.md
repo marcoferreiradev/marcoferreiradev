@@ -35,9 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 December 2022 - To: 05 January 2023
+From: 30 December 2022 - To: 06 January 2023
 
-Other        2 hrs 1 min     █████████████▒░░░░░░░░░░░   53.09 %
+JavaScript   3 hrs 40 mins   ███████████▒░░░░░░░░░░░░░   45.93 %
+Other        2 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.54 %
 ```
 
 <!--END_SECTION:waka-->
