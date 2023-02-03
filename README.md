@@ -3,7 +3,7 @@
 
 - 🔥 Desenvolvedor Front-end Pleno II 
 - 🔭 Trabalho na [Corebiz](https://github.com/corebiz-global)
-- 👨‍💻 Atualmente estou estudando Typescript, GraphQl e gatsby
+- 👨‍💻 Atualmente estou estudando Typescript, Supabase e NextJS
 - 💬 Aspirante IA, Machine Learning, IOT, e desenvolvimento de jogos
 
 ## 🛠 &nbsp;Tech Stack
@@ -20,6 +20,7 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Vtex](https://img.shields.io/badge/-VTEX-05122A?style=flat&logo=vtex)
+![Supabase](https://img.shields.io/badge/-SUPABASE-05122A?style=flat&logo=supabase)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
