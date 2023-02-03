@@ -20,7 +20,7 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Vtex](https://img.shields.io/badge/-VTEX-05122A?style=flat&logo=vtex)
-![Supabase](https://img.shields.io/badge/-SUPABASE-05122A?style=flat&logo=supabase)
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
