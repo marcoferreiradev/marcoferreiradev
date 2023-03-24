@@ -36,11 +36,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 March 2023 - To: 23 March 2023
+From: 17 March 2023 - To: 24 March 2023
 
-TypeScript   32 hrs 41 mins  ████████████████████▒░░░░   81.01 %
-SCSS         4 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
-Other        1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+TypeScript   35 hrs 3 mins   █████████████████████░░░░   83.97 %
+SCSS         2 hrs 56 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+Other        1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
 ```
 
 <!--END_SECTION:waka-->
