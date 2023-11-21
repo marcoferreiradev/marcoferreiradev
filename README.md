@@ -38,11 +38,7 @@
 ```txt
 From: 14 November 2023 - To: 21 November 2023
 
-TypeScript   9 hrs 2 mins    ████████████████████░░░░░   79.73 %
-JavaScript   1 hr 43 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
-SCSS         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
