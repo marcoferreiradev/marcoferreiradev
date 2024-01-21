@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2024 - To: 20 January 2024
+From: 14 January 2024 - To: 21 January 2024
 
 Other        4 hrs 53 mins   ███████████░░░░░░░░░░░░░░   43.49 %
 JavaScript   3 hrs 11 mins   ███████░░░░░░░░░░░░░░░░░░   28.36 %
