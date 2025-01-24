@@ -1,11 +1,6 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Marco o//</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoferreiradev&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Front-end Pleno II 
-- 🔭 Trabalho na [Corebiz](https://github.com/corebiz-global)
-- 👨‍💻 Atualmente estou estudando Typescript, Supabase e NextJS
-- 💬 Aspirante IA, Machine Learning, IOT, e desenvolvimento de jogos
-
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -46,5 +41,3 @@ Image (svg)   6 mins          ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-![Snake animation](https://github.com/marcoferreiradev/marcoferreiradev/blob/output/github-contribution-grid-snake.svg)
