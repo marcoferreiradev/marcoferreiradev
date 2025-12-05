@@ -31,12 +31,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2025 - To: 04 December 2025
+From: 28 November 2025 - To: 05 December 2025
 
-TypeScript   10 hrs 29 mins  ███████████████████░░░░░░   75.55 %
-CSS          2 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
-JSON         1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+TypeScript   12 hrs 17 mins  █████████████████████▒░░░   84.90 %
+JSON         1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+CSS          47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
