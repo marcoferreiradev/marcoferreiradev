@@ -31,11 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2025 - To: 07 January 2026
+From: 01 January 2026 - To: 08 January 2026
 
-TypeScript   7 hrs 31 mins   ███████████████████████░░   91.46 %
-JSON         39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+TypeScript   6 hrs 8 mins    ██████████████████████▒░░   89.75 %
+JSON         39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
