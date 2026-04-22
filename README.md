@@ -31,13 +31,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 April 2026 - To: 21 April 2026
+From: 15 April 2026 - To: 22 April 2026
 
-TypeScript   16 hrs 45 mins        ███████████████▓░░░░░░░░░   62.50 %
-Markdown     4 hrs 48 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.92 %
-Other        2 hrs 37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-JSON         1 hr 47 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-Bash         13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+TypeScript   15 hrs 24 mins        ██████████████▒░░░░░░░░░░   56.79 %
+Markdown     6 hrs 17 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
+Other        2 hrs 48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+JSON         1 hr 47 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Bash         13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
