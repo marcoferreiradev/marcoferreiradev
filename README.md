@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="220" valign="top">
-<img src="./assets/cover.png" alt="cover" width="200" />
+<img src="./assets/cover.jpeg" alt="" width="200" />
 </td>
 <td valign="top">
 
@@ -15,7 +15,7 @@ SPEC         architecture · ui · ux · performance
 TITLE        lead developer
 AT           oficina · são roque, sp · br
 SINCE        2019
-EMAIL        marcoferreiradev@gmail.com
+EMAIL        marcoferreiradev[at]gmail.com
 
 ─────────────────────────────────────────────
 
