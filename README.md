@@ -30,14 +30,17 @@ AI           claude
 ```
 
 <!--START_SECTION:waka-->
+
 ```txt
 From: 09 May 2026 - To: 16 May 2026
+
 TypeScript    9 hrs 47 mins         █████████▒░░░░░░░░░░░░░░░   36.69 %
 Other         8 hrs 28 mins         ████████░░░░░░░░░░░░░░░░░   31.80 %
 Markdown      2 hrs 51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
 JSON          2 hrs 33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
 Python        1 hr 45 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
 ```
+
 <!--END_SECTION:waka-->
 
 <sub><a href="https://www.linkedin.com/in/marco-ferreira-24a7b8162/">linkedin</a> · <a href="mailto:marcoferreiradev@gmail.com">email</a></sub>
