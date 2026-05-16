@@ -1,43 +1,50 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Marco o//</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoferreiradev&color=yellow" alt="Profile views" /> </p>
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Styled component](https://img.shields.io/badge/-Styled%20Component-05122A?style=flat&logo=styled-components)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Vtex](https://img.shields.io/badge/-VTEX-05122A?style=flat&logo=vtex)
-![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoferreiradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoferreiradev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<br><br>
----
-
-## 📊 &nbsp;Status semanal de desenvolvimento
-<!--START_SECTION:waka-->
+<table>
+<tr>
+<td width="220" valign="top">
+<img src="./assets/cover.jpeg" alt="" width="200" />
+</td>
+<td valign="top">
 
 ```txt
-From: 09 May 2026 - To: 16 May 2026
+marco william
+@marcoferreiradev
 
+ROLE         senior frontend developer
+SPEC         architecture · ui · ux · performance
+             seo · monitoring
+TITLE        lead developer
+AT           oficina · são roque, sp · br
+SINCE        2019
+EMAIL        marcoferreiradev[at]gmail.com
+
+─────────────────────────────────────────────
+
+LANG         typescript · javascript
+MARKUP       html · css · sass
+FRAMEWORK    react · preact
+STYLING      tailwind · styled-components
+E-COMMERCE   vtex io · vtex cms · vtex faststore
+RUNTIME      deno · node · bun
+AI           claude
+```
+
+</td>
+</tr>
+</table>
+
+<!--START_SECTION:waka-->
+```txt
+From: 09 May 2026 - To: 16 May 2026
 TypeScript    9 hrs 47 mins         █████████▒░░░░░░░░░░░░░░░   36.69 %
 Other         8 hrs 28 mins         ████████░░░░░░░░░░░░░░░░░   31.80 %
 Markdown      2 hrs 51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
 JSON          2 hrs 33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
 Python        1 hr 45 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
 ```
-
 <!--END_SECTION:waka-->
+
+<p>
+  <a href="https://www.linkedin.com/in/marco-ferreira-24a7b8162/">linkedin</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:marcoferreiradev@gmail.com">email</a>
+</p>
