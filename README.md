@@ -14,8 +14,7 @@ SPEC         architecture · ui · ux · performance
              seo · monitoring
 TITLE        lead developer
 AT           oficina · são roque, sp · br
-SINCE        2019
-EMAIL        marcoferreiradev[at]gmail.com
+EMAIL        marcoferreiradev@gmail.com
 
 ─────────────────────────────────────────────
 
@@ -26,11 +25,9 @@ STYLING      tailwind · styled-components
 E-COMMERCE   vtex io · vtex cms · vtex faststore
 RUNTIME      deno · node · bun
 AI           claude
-```
 
-</td>
-</tr>
-</table>
+─────────────────────────────────────────────
+```
 
 <!--START_SECTION:waka-->
 ```txt
@@ -43,8 +40,8 @@ Python        1 hr 45 mins          █▓░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<p>
-  <a href="https://www.linkedin.com/in/marco-ferreira-24a7b8162/">linkedin</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:marcoferreiradev@gmail.com">email</a>
-</p>
+<sub><a href="https://www.linkedin.com/in/marco-ferreira-24a7b8162/">linkedin</a> · <a href="mailto:marcoferreiradev@gmail.com">email</a></sub>
+
+</td>
+</tr>
+</table>
