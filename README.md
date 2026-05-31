@@ -32,13 +32,13 @@ AI           claude
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2026 - To: 30 May 2026
+From: 24 May 2026 - To: 31 May 2026
 
-TypeScript   10 hrs 19 mins        ██████████░░░░░░░░░░░░░░░   39.95 %
-Markdown     6 hrs 45 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.17 %
-Other        2 hrs 54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
-Bash         1 hr 59 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-JSON         1 hr 39 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+TypeScript   10 hrs 19 mins        ██████████▒░░░░░░░░░░░░░░   41.65 %
+Markdown     6 hrs 5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.55 %
+Other        2 hrs 54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+Bash         1 hr 59 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+JSON         1 hr 17 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
 ```
 
 <!--END_SECTION:waka-->
