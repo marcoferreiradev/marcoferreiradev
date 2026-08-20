@@ -32,13 +32,11 @@ AI           claude
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2026 - To: 19 August 2026
+From: 13 August 2026 - To: 20 August 2026
 
-TypeScript   1 hr 33 mins          ███████████████░░░░░░░░░░   60.02 %
-Other        39 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.09 %
-HTML         11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-Python       8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-CSV          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Other        10 mins               ██████████▒░░░░░░░░░░░░░░   41.10 %
+Python       8 mins                ████████░░░░░░░░░░░░░░░░░   31.82 %
+TypeScript   6 mins                ██████▓░░░░░░░░░░░░░░░░░░   27.07 %
 ```
 
 <!--END_SECTION:waka-->
